@@ -29,6 +29,13 @@ p {
 }
 
 
+/* Aggiungi un effetto hover alle voci di menu */
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
 /* Aggiungi un'ombra alle immagini */
 
 img {
