@@ -1,0 +1,41 @@
+/* Imposta il font principale */
+
+body {
+    font-family: 'Arial Black', sans-serif;
+}
+
+
+/* Imposta i colori principali */
+
+h1,
+h2,
+nav a {
+    color: #ff0000;
+    /* Rosso */
+}
+
+body {
+    background-color: #000000;
+    /* Nero */
+}
+
+
+/* Aggiungi un effetto hover alle voci di menu */
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+/* Aggiungi un'ombra alle immagini */
+
+img {
+    box-shadow: 2px 2px 5px #333333;
+}
+
+
+/* Allinea il testo del footer al centro */
+
+footer {
+    text-align: center;
+}
