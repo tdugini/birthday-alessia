@@ -16,7 +16,12 @@ nav a {
 
 body {
     background-color: #000000;
-    /* Nero */
+    background-image: url("slipknot.jpg");
+    background-size: cover;
+}
+
+p {
+    color: #333333;
 }
 
 
