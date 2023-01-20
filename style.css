@@ -18,7 +18,7 @@ body {
     background-color: #000000;
     background-image: url("rcpmu8wnrud71.jpg");
     background-size: cover;
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
