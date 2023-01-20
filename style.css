@@ -17,6 +17,12 @@ body {
     min-height: 100vh;
 }
 
-p {
-    color: #ff0000;
+div {
+    color: crimson;
+}
+
+img {
+    object-fit: contain; 
+    max-width: 100%;
+    height: auto;
 }
